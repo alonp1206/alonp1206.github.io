@@ -16,16 +16,16 @@ I am a multidisciplinary researcher makeing its first steps who combins a strong
 
 ## 🎓 Education
 
-*   **M.Sc. in Life Sciences**
-    *Weizmann Institute of Science, Rehovot, Israel* | (Current)
-*   **B.Sc. in Biology and Chemistry (Dual-Track)**
+*   **M.Sc. in Life Sciences**                         | 2026 - Current
+    *Weizmann Institute of Science, Rehovot, Israel*   
+*   **B.Sc. in Biology and Chemistry (Dual-Track)**    | 2023 - 2026 
     *Technion - Israel Institute of Technology, Haifa, Israel*
-*   **Practical Engineer in Electronics**
-    *Specialization in Communications*
+*   **Practical Engineer in Electronics**              | 2017- 2019
+    *Specialization in Communications, Ort Natania, Israel*
 
 ---
 
-## 💼 Research & Experience
+## 💼 Research, Experience & Qualties 
 
 ### 🧬 Scientific & Laboratory Experience
 *   **Cancer Metabolism Research**(current)**:** Investigating the systemic metabolic impacts of tumors on liver function. - Prof Aeyelt Erez's lab: [check group's websit for more info](https://www.weizmann.ac.il/dept/irb/Erez/ayelet-erez-lab)
@@ -38,7 +38,7 @@ I am a multidisciplinary researcher makeing its first steps who combins a strong
 
 ## 💻 Tech Stack & Skills
 
-**Programming Languages & Hardware Description:**
+** Knowlage in Programming Languages & Hardware Description:**
 ![C](https://img.shields.io/badge/C-2C3E50?style=flat-square&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-2C3E50?style=flat-square&logo=java&logoColor=white)
 ![VHDL](https://img.shields.io/badge/VHDL-2C3E50?style=flat-square&logo=v&logoColor=white)
