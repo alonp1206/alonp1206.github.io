@@ -1,6 +1,6 @@
 <div align="center">
   
-#🔬 Alon Pekerman
+# 🔬 Alon Pekerman
 **M.Sc. Student in Life Sciences | Multidisciplinary Researcher | Leader**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-2C3E50?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alon-pekerman/)
@@ -31,8 +31,8 @@ I am a multidisciplinary researcher makeing its first steps who combins a strong
 ## 💼 Research & Experience
 
 ### 🧬 Scientific & Laboratory Experience
-*   **Cancer Metabolism Research**(current)**:** Investigating the systemic metabolic impacts of tumors on liver function. - Prof Aeyelt Erez's lab: [check group's websit for more info] (https://www.weizmann.ac.il/dept/irb/Erez/ayelet-erez-lab)
-* **Double-Strand DNA Break Repair**(2025-2026)**:** Investigating the molecular mechanisms of DNA damage response and repair pathways in cancer cells. - Prof Nabieh Ayoub's lab: (check group's websit for more info) (https://biology.technion.ac.il/member/%D7%90%D7%99%D7%95%D7%91/)
+*   **Cancer Metabolism Research**(current)**:** Investigating the systemic metabolic impacts of tumors on liver function. - Prof Aeyelt Erez's lab: [check group's websit for more info](https://www.weizmann.ac.il/dept/irb/Erez/ayelet-erez-lab)
+* **Double-Strand DNA Break Repair**(2025-2026)**:** Investigating the molecular mechanisms of DNA damage response and repair pathways in cancer cells. - Prof Nabieh Ayoub's lab: [check group's websit for more info](https://biology.technion.ac.il/member/%D7%90%D7%99%D7%95%D7%91/)
 
 ### 🎖️ Leadership & Management
 *   **Military Command Role:** Demonstrated excellence in leading groups, managing high-stakes responsibilities, and executing critical decision-making in dynamic environments. Proven ability to guide teams toward operational success while maintaining high morale and discipline.
