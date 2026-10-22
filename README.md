@@ -11,7 +11,7 @@
 ---
 
 ## 👤 About Me
-I am a multidisciplinary researcher makeing its first steps, who combins a strong foundation in life sciences and chemistry with a strong affinity towards electronics. Currently, I am advancing my academic journey as an M.Sc. student at the prestigious Weizmann Institute of Science. My core drive is to bridge the gap between biological systems and data-driven research with the sole intentions to improve the lifes  
+I am a multidisciplinary researcher makeing its first steps who combins a strong foundation in life sciences and chemistry. Currently, I am advancing my academic journey as an M.Sc. student at the prestigious Weizmann Institute of Science. My core drive is to bridge the gap between biological systems and data-driven research, ultimately aiming to contribute to the development of impactful treatments for diverse medical conditions
 
 > **Current Focus:** Conducting a research project in **Prof. Ayelet Erez’s laboratory**, focusing on cancer tumors and their systemic metabolic effects on the liver.
 
@@ -31,8 +31,8 @@ I am a multidisciplinary researcher makeing its first steps, who combins a stron
 ## 💼 Research & Experience
 
 ### 🧬 Scientific & Laboratory Experience
-*   **Cancer Metabolism Research**(current)**:** Investigating the systemic metabolic impacts of tumors on liver function. - Prof Aeyelt Erez's lab, check group's websit for more info: [https://www.weizmann.ac.il/dept/irb/Erez/ayelet-erez-lab]
-* **Double-Strand DNA Break Repair**(2025-2026)**:** Investigating the molecular mechanisms of DNA damage response and repair pathways in cancer cells. - Prof Nabieh Ayoub's lab, check group's websit for more info: [https://biology.technion.ac.il/member/%D7%90%D7%99%D7%95%D7%91/]
+*   **Cancer Metabolism Research**(current)**:** Investigating the systemic metabolic impacts of tumors on liver function. - Prof Aeyelt Erez's lab, check group's websit for more info: [(https://www.weizmann.ac.il/dept/irb/Erez/ayelet-erez-lab)]
+* **Double-Strand DNA Break Repair**(2025-2026)**:** Investigating the molecular mechanisms of DNA damage response and repair pathways in cancer cells. - Prof Nabieh Ayoub's lab, check group's websit for more info: [(https://biology.technion.ac.il/member/%D7%90%D7%99%D7%95%D7%91/)]
 
 ### 🎖️ Leadership & Management
 *   **Military Command Role:** Demonstrated excellence in leading groups, managing high-stakes responsibilities, and executing critical decision-making in dynamic environments. Proven ability to guide teams toward operational success while maintaining high morale and discipline.
