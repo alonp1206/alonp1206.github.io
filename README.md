@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🔬 Alon Pekerman
+#🔬 Alon Pekerman
 **M.Sc. Student in Life Sciences | Multidisciplinary Researcher | Leader**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-2C3E50?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alon-pekerman/)
