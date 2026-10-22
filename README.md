@@ -1,4 +1,3 @@
-<div align="center">
   
 # 🔬 Alon Pekerman
 **M.Sc. Student in Life Sciences | Multidisciplinary Researcher | Leader**
@@ -6,7 +5,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-2C3E50?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alon-pekerman/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-GitHub_Page-2C3E50?style=flat-square&logo=github&logoColor=white)](https://alonp1206.github.io/)
 
-</div>
 
 ---
 
