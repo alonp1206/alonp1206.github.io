@@ -1,9 +1,67 @@
-# alonp1206.github.io
-# Alon Pekerman
+<div align="center">
+  
+# 🔬 Alon Pekerman
+**M.Sc. Student in Life Sciences | Multidisciplinary Researcher | Leader**
 
-* **Academic Status:** M.Sc. Student in Life Sciences, Weizmann Institute of Science, Rehovot, Israel
-* **Academic Background:** B.Sc. (Dual-track in Biology and Chemistry), Technion, Haifa, Israel
-* **Current Status:** Conducting a research project in Prof. Ayelet Erez's laboratory, focusing on cancer tumors and their systemic metabolic effects on the liver.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-2C3E50?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alon-pekerman/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-GitHub_Page-2C3E50?style=flat-square&logo=github&logoColor=white)](https://alonp1206.github.io/)
+
+</div>
 
 ---
-*This profile page was created as part of the course: **WIS Programming in Python using AI** (Course num: 20273231), October 2026.*
+
+## 👤 About Me
+I am a multidisciplinary researcher combining a strong foundation in life sciences, chemistry, and electronics. Currently, I am advancing my academic journey as an M.Sc. student at the prestigious Weizmann Institute of Science. My core drive is to bridge the gap between biological systems, technological problem-solving, and data-driven research. 
+
+> **Current Focus:** Conducting a research project in **Prof. Ayelet Erez’s laboratory**, focusing on cancer tumors and their systemic metabolic effects on the liver.
+
+---
+
+## 🎓 Education
+
+*   **M.Sc. in Life Sciences**
+    *Weizmann Institute of Science, Rehovot, Israel* | (Current)
+*   **B.Sc. in Biology and Chemistry (Dual-Track)**
+    *Technion - Israel Institute of Technology, Haifa, Israel*
+*   **Practical Engineer (הנדסאי) in Electronics**
+    *Specialization in Communications*
+
+---
+
+## 💼 Research & Experience
+
+### 🧬 Scientific & Laboratory Experience
+*   **Cancer Metabolism Research:** Investigating the systemic metabolic impacts of tumors on liver function.
+*   **Wet Lab Expertise:** Hands-on experience in microbiological techniques, cell culture, and metabolic assays.
+
+### 🎖️ Leadership & Management
+*   **Military Command Role:** Demonstrated excellence in leading groups, managing high-stakes responsibilities, and executing critical decision-making in dynamic environments. Proven ability to guide teams toward operational success while maintaining high morale and discipline.
+
+---
+
+## 💻 Tech Stack & Skills
+
+**Programming Languages & Hardware Description:**
+![C](https://img.shields.io/badge/C-2C3E50?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-2C3E50?style=flat-square&logo=java&logoColor=white)
+![VHDL](https://img.shields.io/badge/VHDL-2C3E50?style=flat-square&logo=v&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-2C3E50?style=flat-square&logo=assemblyscript&logoColor=white)
+
+**Core Competencies:**
+![Microbiology](https://img.shields.io/badge/Microbiology-34495E?style=flat-square)
+![Metabolic_Research](https://img.shields.io/badge/Metabolic_Research-34495E?style=flat-square)
+![Team_Leadership](https://img.shields.io/badge/Team_Leadership-34495E?style=flat-square)
+![Strategic_Decision_Making](https://img.shields.io/badge/Strategic_Decision_Making-34495E?style=flat-square)
+
+---
+
+## 📬 Connect With Me
+Feel free to reach out for collaborations, research discussions, or networking:
+
+*   **LinkedIn:** [Alon Pekerman](https://www.linkedin.com/in/alon-pekerman/) *(Placeholder - please update link)*
+*   **Website/Portfolio:** [alonp1206.github.io](https://alonp1206.github.io/)
+
+---
+<div align="center">
+  <sub><i>This profile page was created as part of the course: <b>WIS Programming in Python using AI (Course num: 20273231)</b>, October 2026.</i></sub>
+</div>
