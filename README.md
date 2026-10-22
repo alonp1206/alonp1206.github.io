@@ -31,8 +31,8 @@ I am a multidisciplinary researcher combining a strong foundation in life scienc
 ## 💼 Research & Experience
 
 ### 🧬 Scientific & Laboratory Experience
-*   **Cancer Metabolism Research:** Investigating the systemic metabolic impacts of tumors on liver function.
-*   **Wet Lab Expertise:** Hands-on experience in microbiological techniques, cell culture, and metabolic assays.
+*   **Cancer Metabolism Research**(current)**:** Investigating the systemic metabolic impacts of tumors on liver function. - Prof Aeyelt Erez's lab, check group's websit for more info: [https://www.weizmann.ac.il/dept/irb/Erez/ayelet-erez-lab]
+* **Double-Strand DNA Break Repair**(2025-2026)**:** Investigating the molecular mechanisms of DNA damage response and repair pathways in cancer cells. - Prof Nabieh Ayoub's lab, check group's websit for more info: [https://biology.technion.ac.il/member/%D7%90%D7%99%D7%95%D7%91/]
 
 ### 🎖️ Leadership & Management
 *   **Military Command Role:** Demonstrated excellence in leading groups, managing high-stakes responsibilities, and executing critical decision-making in dynamic environments. Proven ability to guide teams toward operational success while maintaining high morale and discipline.
@@ -58,7 +58,7 @@ I am a multidisciplinary researcher combining a strong foundation in life scienc
 ## 📬 Connect With Me
 Feel free to reach out for collaborations, research discussions, or networking:
 
-*   **LinkedIn:** [Alon Pekerman](https://www.linkedin.com/in/alon-pekerman/) *(Placeholder - please update link)*
+*   **LinkedIn:** [Alon Pekerman](https://www.linkedin.com/in/alon-Pekerman/) 
 *   **Website/Portfolio:** [alonp1206.github.io](https://alonp1206.github.io/)
 
 ---
