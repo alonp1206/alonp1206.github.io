@@ -11,7 +11,7 @@
 ---
 
 ## 👤 About Me
-I am a multidisciplinary researcher combining a strong foundation in life sciences, chemistry, and electronics. Currently, I am advancing my academic journey as an M.Sc. student at the prestigious Weizmann Institute of Science. My core drive is to bridge the gap between biological systems, technological problem-solving, and data-driven research. 
+I am a multidisciplinary researcher makeing its first steps, who combins a strong foundation in life sciences and chemistry with a strong affinity towards electronics. Currently, I am advancing my academic journey as an M.Sc. student at the prestigious Weizmann Institute of Science. My core drive is to bridge the gap between biological systems and data-driven research with the sole intentions to improve the lifes  
 
 > **Current Focus:** Conducting a research project in **Prof. Ayelet Erez’s laboratory**, focusing on cancer tumors and their systemic metabolic effects on the liver.
 
@@ -23,7 +23,7 @@ I am a multidisciplinary researcher combining a strong foundation in life scienc
     *Weizmann Institute of Science, Rehovot, Israel* | (Current)
 *   **B.Sc. in Biology and Chemistry (Dual-Track)**
     *Technion - Israel Institute of Technology, Haifa, Israel*
-*   **Practical Engineer (הנדסאי) in Electronics**
+*   **Practical Engineer in Electronics**
     *Specialization in Communications*
 
 ---
