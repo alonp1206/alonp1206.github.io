@@ -1,12 +1,4 @@
-# 🔬 Alon ???
-**M.Sc. Student in Life Sciences | Multidisciplinary Researcher | Leader**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-2C3E50?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alon-pekerman/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-GitHub_Page-2C3E50?style=flat-square&logo=github&logoColor=white)](https://alonp1206.github.io/)
-
-
----
-# Alon P
+# 🔬 Alon Pekerman
 ## 👤 About Me
 I am a multidisciplinary researcher makeing its first steps who combins a strong foundation in life sciences and chemistry. Currently, I am advancing my academic journey as an M.Sc. student at the prestigious Weizmann Institute of Science. My core drive is to bridge the gap between biological systems and data-driven research, ultimately aiming to contribute to the development of impactful treatments for diverse medical conditions
 
